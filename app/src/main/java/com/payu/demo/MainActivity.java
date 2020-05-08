@@ -28,9 +28,9 @@ public class MainActivity extends AppCompatActivity {
     String email = "naveen@thecolourmoon.com";
     String mobileNum = "8499052020";
     String productInfo = "Surf Packets";
-    String merchantKey = "0gUVapn4";
-    String merchantId = "7000889";
-    String merchantSalt = "XasPfjvs9a";
+    String merchantKey = "Place your live Merchant Key here";
+    String merchantId = "Place your live Merchant Id here";
+    String merchantSalt = "Place your live Merchant Salt here";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
