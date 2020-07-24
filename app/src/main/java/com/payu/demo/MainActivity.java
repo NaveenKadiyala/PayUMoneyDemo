@@ -25,8 +25,8 @@ public class MainActivity extends AppCompatActivity {
     String firstName = "NaveenKadiyala";
     String amount = "1.0";
     String txnId;
-    String email = "naveen@thecolourmoon.com";
-    String mobileNum = "8499052020";
+    String email = "Replace the email";
+    String mobileNum = "Replace the mobile number";
     String productInfo = "Surf Packets";
     String merchantKey = "Place your live Merchant Key here";
     String merchantId = "Place your live Merchant Id here";
