@@ -7,10 +7,10 @@ If you are opening the payment gateway from fragment you wont get the result bac
 
 Sample Code for that : 
 
-' public void onActivityResult(int requestCode, int resultCode, Intent intent) {
+ public void onActivityResult(int requestCode, int resultCode, Intent intent) {
     super.onActivityResult(requestCode, resultCode, intent);
     Fragment fragment = (Fragment) getChildFragmentManager().findFragmentByTag(childTag);
     if (fragment != null) {
         fragment.onActivityResult(requestCode, resultCode, intent);
     }
-} '
+} 
